@@ -2,4 +2,4 @@
 Þetta eru glósur fyrir TÖL401G, eitt Markdown skjal fyrir hverja viku.
 
 
-Eftir Unnar Ernir Holm
+Eftir Unnar Holm
